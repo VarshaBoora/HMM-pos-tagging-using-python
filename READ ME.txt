@@ -1,0 +1,13 @@
+Assignment 6
+
+Name:VARSHA BOORA . NUID:001055347
+
+The folder contains the following:
+
+1. Assignment6 code file.
+2. Data folder contains the data set used.
+3. Read Me file.
+
+Team members:
+Name: Akshata Hosamani	
+Nmae: Keerti Murugan	
